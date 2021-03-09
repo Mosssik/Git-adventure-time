@@ -1,4 +1,5 @@
 public interface StringProcessor {
+    String methodA(String str);
     
     String addPrefix (String str);
     
